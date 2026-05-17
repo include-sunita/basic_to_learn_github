@@ -1,2 +1,5 @@
 # basic_to_learn_github
-author-sunita jangir
+Author-sunita jangir
+<br>
+This is my git repository
+
